@@ -1,0 +1,24 @@
+# Archivos de NetBeans
+nbproject/                # Carpeta de configuración del proyecto NetBeans
+build/                    # Carpeta de construcción de NetBeans
+dist/                     # Carpeta de distribución de NetBeans
+**/build/                 # Carpeta build dentro de cualquier subcarpeta
+**/dist/                  # Carpeta dist dentro de cualquier subcarpeta
+
+# Archivos de salida (compilados)
+*.class                   # Archivos de clases compiladas
+*.jar                     # Archivos JAR generados
+
+# Archivos de configuración específicos de NetBeans
+*.netbeans-identity
+
+# Archivos de configuración del sistema operativo
+*.log                     # Archivos de log
+*.bak                     # Archivos de respaldo
+*.swp                     # Archivos temporales de vim
+Thumbs.db                 # Archivos de miniaturas en Windows
+.DS_Store                 # Archivos de macOS
+
+# Archivos temporales
+.idea/                    # Configuración de proyectos de IntelliJ (si es que usas alguna vez)
+.vscode/                  # Configuración de Visual Studio Code (si es que usas alguna vez)
