@@ -22,3 +22,4 @@ Thumbs.db                 # Archivos de miniaturas en Windows
 # Archivos temporales
 .idea/                    # Configuración de proyectos de IntelliJ (si es que usas alguna vez)
 .vscode/                  # Configuración de Visual Studio Code (si es que usas alguna vez)
+/Evaluaciones/PrimerParcial/nbproject/private/
