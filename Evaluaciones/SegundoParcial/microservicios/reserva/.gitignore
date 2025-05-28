@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor configs (opcional)
+.vscode/
+.idea/
+
+# PM2 logs (si usas pm2 para producción)
+pids/
+*.pid
+*.seed
+
+# Build (si alguna vez compilas algo, como TS)
+dist/
+build/
